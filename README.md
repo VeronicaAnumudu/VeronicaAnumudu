@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Data Analyst & Analytics Project Manager with 8+ years of experience helping businesses turn complex data into clear, actionable insights. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Senior Data Analyst & Analytics Project Manager with 8+ years of experience helping businesses turn complex data into clear, actionable insights. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 I enjoy transforming complex and messy datasets into meaningful stories, building dashboards that people actually use, and automating repetitive reporting processes so teams can focus on more valuable analysis and decision-making.
 My work combines data analytics, business intelligence, business analysis, and project management, with a strong focus on understanding business needs and translating them into scalable analytics solutions.
