@@ -9,9 +9,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/veronica-a-11989b64/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BADd18nWkTKyf9twBfvxZmA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/veronica-a-11989b64/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
  
-  <a href="mailto:veronica.anumudu@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:veronica.anumudu@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
