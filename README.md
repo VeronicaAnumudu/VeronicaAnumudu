@@ -14,11 +14,12 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Data Analyst/Analytic project manager passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Data Analyst & Analytics Project Manager with 8+ years of experience helping businesses turn complex data into clear, actionable insights. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I enjoy transforming complex and messy datasets into meaningful stories, building dashboards that people actually use, and automating repetitive reporting processes so teams can focus on more valuable analysis and decision-making.
+My work combines data analytics, business intelligence, business analysis, and project management, with a strong focus on understanding business needs and translating them into scalable analytics solutions.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., singing, researching, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., singing, researching, mentoring others, etc.]. I love the "aha!" moment when data reveals something new that can improve how a business operates..
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
