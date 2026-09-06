@@ -19,7 +19,7 @@ I'm a Senior Data Analyst & Analytics Project Manager with 8+ years of experienc
 I enjoy transforming complex and messy datasets into meaningful stories, building dashboards that people actually use, and automating repetitive reporting processes so teams can focus on more valuable analysis and decision-making.
 My work combines data analytics, business intelligence, business analysis, and project management, with a strong focus on understanding business needs and translating them into scalable analytics solutions.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., singing, researching, mentoring others, etc.]. I love the "aha!" moment when data reveals something new that can improve how a business operates..
+When I'm not working with data, I enjoy  singing, researching, mentoring others, etc. I love the "aha!" moment when data reveals something new that can improve how a business operates..
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
